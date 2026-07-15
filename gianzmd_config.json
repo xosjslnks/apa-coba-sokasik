@@ -27,12 +27,12 @@
     1602936939
   ],
   "quotas": {
-    "7333580176": {
+    "7608388259": {
       "used": 1,
-      "role": "seller",
-      "date": "2026-07-13"
+      "role": "user",
+      "date": "2026-07-15"
     }
   },
-  "_lastReset": "2026-07-13",
+  "_lastReset": "2026-07-15",
   "_savedToday": true
 }
