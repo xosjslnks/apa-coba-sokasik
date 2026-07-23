@@ -28,7 +28,13 @@
     6630156188,
     1602936939
   ],
-  "quotas": {},
+  "quotas": {
+    "8080758677": {
+      "used": 1,
+      "role": "seller",
+      "date": "2026-07-23"
+    }
+  },
   "_lastReset": "2026-07-23",
   "_savedToday": true
 }
